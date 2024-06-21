@@ -1,0 +1,13 @@
+requests
+flask
+scipy==1.12
+gensim
+pandas
+slack_bolt
+spacy
+python-dotenv
+torch
+transformers
+gradio
+uvicorn
+fastapi
